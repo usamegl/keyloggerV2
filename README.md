@@ -1,13 +1,20 @@
 # keyloggerV2
 Developed with Python, includes many options and optimized
 
-import psutil
+import psutil 
+
 import GPUtil
+
 from PIL import ImageGrab
+
 import os
+
 import datetime
+
 import cv2
+
 from pynput import keyboard
+
 
 for libs, i used.
 
